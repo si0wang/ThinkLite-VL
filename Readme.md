@@ -7,3 +7,5 @@
 </p>
 
 </div>
+
+Official codebase of "SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement". We will release all codes in one week.
