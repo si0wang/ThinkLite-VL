@@ -9,3 +9,13 @@
 </div>
 
 Official codebase of "SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement". We will release all codes in one week.
+
+If you found this work useful, consider giving this repository a star and citing our paper as followed:
+```
+@article{wang2025sota,
+  title={SoTA with Less: MCTS-Guided Sample Selection for Data-Efficient Visual Reasoning Self-Improvement},
+  author={Wang, Xiyao and Yang, Zhengyuan and Feng, Chao and Lu, Hongjin and Li, Linjie and Lin, Chung-Ching and Lin, Kevin and Huang, Furong and Wang, Lijuan},
+  journal={arXiv preprint arXiv:2504.07934},
+  year={2025}
+}
+```
