@@ -166,7 +166,7 @@ class VisionLanguageModel:
         next_state = state.copy()
         next_state.solution_steps.append(action.text)
 
-        if len(next_state.solution_steps) >= 10 or "The final answer is:" in next_state.solution_steps[-1]:
+        if len(next_state.solution_steps) >= 10 or "Final Answer: " in next_state.solution_steps[-1]:
             next_state.is_terminal = True
         return next_state
 
